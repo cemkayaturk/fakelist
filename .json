@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "Ahmet Mehmet",
+    "details": "Çelebi Havacilik Holding, Bilgi Teknolojileri, Yazilim"
+  },
+  {
+    "id": "2",
+    "name": "John Doe",
+    "details": "Frankfurt Kargo, Finans, Bütçe"
+  },
+  {
+    "id": "3",
+    "name": "Jane Doe",
+    "details": "Frankfurt Kargo, Finans, Muhasebe"
+  },
+  {
+    "id": "4",
+    "name": "Amit Sumith",
+    "details": "Delhi Kargo, Teknik, Istasyon Bakim"
+  },
+  {
+    "id": "5",
+    "name": "Zeynep Ali",
+    "details": "Çelebi Hava Servisi, Insan Kaynaklari, Egitim"
+  }
+]
