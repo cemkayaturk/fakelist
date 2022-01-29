@@ -3,31 +3,31 @@
   {
     "id": "1",
     "name": "Ahmet Mehmet",
-    "details": "Çelebi Havacilik Holding, Bilgi Teknolojileri, Yazilim"
+    "details": "Çelebi Havacilik Holding, Bilgi Teknolojileri, Yazilim",
     "phone":"05554443320"
   },
   {
     "id": "2",
     "name": "John Doe",
-    "details": "Frankfurt Kargo, Finans, Bütçe"
+    "details": "Frankfurt Kargo, Finans, Bütçe",
     "phone":"05554443321"
   },
   {
     "id": "3",
     "name": "Jane Doe",
-    "details": "Frankfurt Kargo, Finans, Muhasebe"
+    "details": "Frankfurt Kargo, Finans, Muhasebe",
     "phone":"05554443323"
   },
   {
     "id": "4",
     "name": "Amit Sumith",
-    "details": "Delhi Kargo, Teknik, Istasyon Bakim"
+    "details": "Delhi Kargo, Teknik, Istasyon Bakim",
     "phone":"05554443324"
   },
   {
     "id": "5",
     "name": "Zeynep Ali",
-    "details": "Çelebi Hava Servisi, Insan Kaynaklari, Egitim"
+    "details": "Çelebi Hava Servisi, Insan Kaynaklari, Egitim",
     "phone":"05554443325"
   }
 ]
