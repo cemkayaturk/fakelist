@@ -1,34 +1,60 @@
 {
-  "employees": [
+  "contacts": [
   {
     "id": "0",
-    "name": "Ahmet Mehmet",
-    "details": "Çelebi Havacilik Holding, Bilgi Teknolojileri, Yazilim",
-    "phone":"05554443320"
+    "name": "Daniel Tereza",
+    "title": "Software Engineer",
+    "phone":"(905) 687-9871"
+    "email": "DanielTereza@fakemail.com
   },
   {
     "id": "1",
-    "name": "John Doe",
-    "details": "Frankfurt Kargo, Finans, Bütçe",
-    "phone":"05554443321"
+    "name": "Mateja Ana",
+    "title": "Accountant",
+    "phone":"(506) 427-4915"
+    "email": "MatejaAna@fakemail.com
   },
   {
     "id": "2",
-    "name": "Jane Doe",
-    "details": "Frankfurt Kargo, Finans, Muhasebe",
-    "phone":"05554443323"
+    "name": "Lidiya Ildar",
+    "title": "Manager",
+    "phone":"(327) 421-6193"
+    "email": "LidiyaIldar@fakemail.com
   },
   {
     "id": "3",
-    "name": "Amit Sumith",
-    "details": "Delhi Kargo, Teknik, Istasyon Bakim",
-    "phone":"05554443324"
+    "name": "Merilyn Travers",
+    "title": "Designer",
+    "phone":"(909) 591-3746"
+    "email": "MerilynTravers@fakemail.com
   },
   {
     "id": "4",
     "name": "Zeynep Ali",
-    "details": "Çelebi Hava Servisi, Insan Kaynaklari, Egitim",
-    "phone":"05554443325"
-  }
+    "title": "HR Specialist ",
+    "phone":"(949) 421-2656"
+    "email": "ZeynepAli@fakemail.com
+  },
+    {
+    "id": "5",
+    "name": "Nancy Karissa",
+    "title": "CTO",
+    "phone":"(266) 724-8777"
+    "email": "NancyKarissa@fakemail.com
+  },
+    {
+    "id": "6",
+    "name": "Winnie Phillida",
+    "title": "Sales Expert",
+    "phone":"(806) 351-5039"
+    "email": "WinifredPhillida@fakemail.com
+  },
+    {
+    "id": "7",
+    "name": "Evelyn Perce",
+    "title": "CEO",
+    "phone":"(307) 767-2907",
+    "email": "EvelynPerce@fakemail.com
+  },
 ]
 }
