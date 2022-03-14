@@ -32,24 +32,24 @@
     "id": "4",
     "name": "Zeynep Ali",
     "title": "HR Specialist ",
-    "phone":"(949) 421-2656",
+    "phone": "(949) 421-2656",
     "email": "ZeynepAli@fakemail.com"
   },
-    {
+  {
     "id": "5",
     "name": "Nancy Karissa",
     "title": "CTO",
-    "phone":"(266) 724-8777",
+    "phone": "(266) 724-8777",
     "email": "NancyKarissa@fakemail.com"
   },
-    {
+  {
     "id": "6",
     "name": "Winnie Phillida",
     "title": "Sales Expert",
     "phone":"(806) 351-5039",
     "email": "WinifredPhillida@fakemail.com"
   },
-    {
+  {
     "id": "7",
     "name": "Evelyn Perce",
     "title": "CEO",
