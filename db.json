@@ -4,56 +4,56 @@
     "id": "0",
     "name": "Daniel Tereza",
     "title": "Software Engineer",
-    "phone":"(905) 687-9871",
+    "phone":"(xxx) 687-9871",
     "email": "DanielTereza@fakemail.com"
   },
   {
     "id": "1",
     "name": "Mateja Ana",
     "title": "Accountant",
-    "phone":"(506) 427-4915",
+    "phone":"(xxx) 427-4915",
     "email": "MatejaAna@fakemail.com"
   },
   {
     "id": "2",
     "name": "Lidiya Ildar",
     "title": "Manager",
-    "phone":"(327) 421-6193",
+    "phone":"(xxx) 421-6193",
     "email": "LidiyaIldar@fakemail.com"
   },
   {
     "id": "3",
     "name": "Merilyn Travers",
     "title": "Designer",
-    "phone":"(909) 591-3746",
+    "phone":"(xxx) 591-3746",
     "email": "MerilynTravers@fakemail.com"
   },
   {
     "id": "4",
     "name": "Zeynep Ali",
     "title": "HR Specialist ",
-    "phone": "(949) 421-2656",
+    "phone": "(xxx) 421-2656",
     "email": "ZeynepAli@fakemail.com"
   },
   {
     "id": "5",
     "name": "Nancy Karissa",
     "title": "CTO",
-    "phone": "(266) 724-8777",
+    "phone": "(xxx) 724-8777",
     "email": "NancyKarissa@fakemail.com"
   },
   {
     "id": "6",
     "name": "Winnie Phillida",
     "title": "Sales Expert",
-    "phone":"(806) 351-5039",
+    "phone":"(xxx) 351-5039",
     "email": "WinifredPhillida@fakemail.com"
   },
   {
     "id": "7",
     "name": "Evelyn Perce",
     "title": "CEO",
-    "phone":"(307) 767-2907",
+    "phone":"(xxx) 767-2907",
     "email": "EvelynPerce@fakemail.com"
   }
 ]
