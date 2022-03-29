@@ -56,5 +56,11 @@
     "phone":"(xxx) 767-2907",
     "email": "EvelynPerce@fakemail.com"
   }
-]
+],
+ "devices": [
+   {
+     "uniqueID": "08E611BB-1894-4D9C-AB24-23BE22C7E56E"
+   }
+ ]
+ 
 }
