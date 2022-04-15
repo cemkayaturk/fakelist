@@ -1,3 +1,3 @@
 # fakelist
 
-Fake Json Data for Contacts App
+Fake JSON Data for Contacts App
